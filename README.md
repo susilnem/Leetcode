@@ -12,3 +12,4 @@ LeetCode Practise
 |4|[Reverse String ](https://leetcode.com/problems/reverse-string/) | [Python](./TopSWE/Reverse%20String/ReverseString.py)|Easy|
 |5|[Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | [Python](./TopSWE/Valid%20Palindrome/ValidPalindrome.py)|Easy|
 |6|[LongestCommonPrefix ](https://leetcode.com/problems/longest-common-prefix) | [Python](./TopSWE/Longest%20Common%20Prefix/LongestCommonPrefix.py)|Easy|
+|7|[Power of Three ](https://leetcode.com/problems/power-of-three/) | [Python](./TopSWE/Power%20of%20Three/PowerOfThree.py)|Easy|
